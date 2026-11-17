@@ -90,6 +90,21 @@
         "name": "Skill writing",
         "description": "Draft focused SKILL.md instructions with clear triggers and practical steps."
       }
+    },
+    {
+      "name": "zhin-ascii-translator",
+      "path": "skills/zhin-ascii-translator",
+      "category": "development",
+      "letter": "A",
+      "version": "1.0.0",
+      "zh": {
+        "name": "ASCII 码翻译",
+        "description": "将字母、数字、符号和空白转换为 ASCII 十进制值，只输出数字；例如 A → 65，A1! → 65 49 33。"
+      },
+      "en": {
+        "name": "ASCII translator",
+        "description": "Convert letters, digits, punctuation and whitespace to decimal ASCII values, returning only numbers."
+      }
     }
   ]
 }
