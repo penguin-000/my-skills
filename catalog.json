@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "zhin-frontend-design",
+      "path": "skills/zhin-frontend-design",
+      "category": "frontend",
+      "letter": "F",
+      "version": "1.0.0",
+      "zh": {
+        "name": "前端界面设计",
+        "description": "设计并实现网页、组件和管理界面，关注布局、视觉层级、响应式与可访问性。"
+      },
+      "en": {
+        "name": "Frontend design",
+        "description": "Plan and build responsive interfaces with clear hierarchy and accessible interactions."
+      }
+    },
+    {
+      "name": "zhin-data-analysis",
+      "path": "skills/zhin-data-analysis",
+      "category": "data",
+      "letter": "D",
+      "version": "1.0.0",
+      "zh": {
+        "name": "数据分析",
+        "description": "梳理数据口径、检查缺失与异常，进行指标对比，并输出有依据的分析结论。"
+      },
+      "en": {
+        "name": "Data analysis",
+        "description": "Inspect datasets, check quality, compare metrics and explain findings with evidence."
+      }
+    },
+    {
+      "name": "zhin-document-writing",
+      "path": "skills/zhin-document-writing",
+      "category": "document",
+      "letter": "W",
+      "version": "1.0.0",
+      "zh": {
+        "name": "文档写作",
+        "description": "将资料整理为结构清晰的报告、方案或使用说明，保留事实来源和待确认事项。"
+      },
+      "en": {
+        "name": "Document writing",
+        "description": "Turn source material into structured reports, proposals and practical documentation."
+      }
+    },
+    {
+      "name": "zhin-meeting-notes",
+      "path": "skills/zhin-meeting-notes",
+      "category": "office",
+      "letter": "M",
+      "version": "1.0.0",
+      "zh": {
+        "name": "会议纪要",
+        "description": "从会议记录中提取议题、决策、负责人和待办事项，快速形成可执行的纪要。"
+      },
+      "en": {
+        "name": "Meeting notes",
+        "description": "Extract decisions, action items, owners and open questions from meeting records."
+      }
+    },
+    {
+      "name": "zhin-code-review",
+      "path": "skills/zhin-code-review",
+      "category": "development",
+      "letter": "C",
+      "version": "1.0.0",
+      "zh": {
+        "name": "代码审查",
+        "description": "围绕代码变更检查实际缺陷、资源释放和兼容性问题，并给出可定位的建议。"
+      },
+      "en": {
+        "name": "Code review",
+        "description": "Review changes for behavior defects, lifecycle mistakes and missing verification."
+      }
+    },
+    {
+      "name": "zhin-skill-writing",
+      "path": "skills/zhin-skill-writing",
+      "category": "development",
+      "letter": "S",
+      "version": "1.0.0",
+      "zh": {
+        "name": "Skill 编写",
+        "description": "编写可复用的 SKILL.md，明确适用场景、输入输出、操作步骤与验证方法。"
+      },
+      "en": {
+        "name": "Skill writing",
+        "description": "Draft focused SKILL.md instructions with clear triggers and practical steps."
+      }
+    }
+  ]
+}
